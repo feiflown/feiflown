@@ -4,7 +4,7 @@
 
 #### ⚡ The following are my blogs & studynote & documentations. ⚡ 
 
-- **myblog: https://agou-ops.cn**
+- **myblog: https://github.com/**
 
 <!--
 **Lamy9813/Lamy9813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
