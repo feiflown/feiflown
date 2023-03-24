@@ -1,13 +1,13 @@
 ![](http://agou-images.oss-cn-qingdao.aliyuncs.com/BaseIMG/87847438-4eb0e980-c913-11ea-9916-180535186a13.png)
 
-### Welcome to Lamy's GitHub. 👋
+### Welcome to fei's GitHub. 👋
 
 #### ⚡ The following are my blogs & studynote & documentations. ⚡ 
 
-- **myblog: https://github.com/**
+- **myblog: https://feiflown.github.io/**
 
 <!--
-**Lamy9813/Lamy9813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**feiflown/feiflown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
